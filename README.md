@@ -4,7 +4,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBentoLuiz&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=FabioBentoLuiz&langs_count=10&count_private=true&show_icons=true&theme=dark" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=FabioBentoLuiz&langs_count=9&count_private=true&show_icons=true&theme=dark" />
 </a>
 <!--
 **FabioBentoLuiz/FabioBentoLuiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
